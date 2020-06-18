@@ -1,3 +1,4 @@
+<<<<<<< .merge_file_a16212
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -5,4 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/HandwritingRecognition.iml" filepath="$PROJECT_DIR$/.idea/HandwritingRecognition.iml" />
     </modules>
   </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HandwritingRecognition.iml" filepath="$PROJECT_DIR$/.idea/HandwritingRecognition.iml" />
+    </modules>
+  </component>
+>>>>>>> .merge_file_a21180
 </project>
